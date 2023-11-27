@@ -1,0 +1,17 @@
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.csproj.AssemblyReference.cache
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.AssemblyInfoInputs.cache
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.AssemblyInfo.cs
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.csproj.CoreCompileInputs.cache
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\bin\Debug\net8.0\WebApplicationTEST.DataAccess.deps.json
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\bin\Debug\net8.0\WebApplicationTEST.DataAccess.runtimeconfig.json
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\bin\Debug\net8.0\WebApplicationTEST.DataAccess.dll
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\bin\Debug\net8.0\WebApplicationTEST.DataAccess.pdb
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\bin\Debug\net8.0\WebApplicationTEST.Models.dll
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\bin\Debug\net8.0\WebApplicationTEST.Models.pdb
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.csproj.CopyComplete
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.dll
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\refint\WebApplicationTEST.DataAccess.dll
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.pdb
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.genruntimeconfig.cache
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\ref\WebApplicationTEST.DataAccess.dll

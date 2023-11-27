@@ -1,0 +1,14 @@
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\bin\Debug\net8.0\WebApplicationTEST.Utility.deps.json
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\bin\Debug\net8.0\WebApplicationTEST.Utility.runtimeconfig.json
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\bin\Debug\net8.0\WebApplicationTEST.Utility.dll
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\bin\Debug\net8.0\WebApplicationTEST.Utility.pdb
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.csproj.AssemblyReference.cache
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.AssemblyInfoInputs.cache
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.AssemblyInfo.cs
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.csproj.CoreCompileInputs.cache
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.dll
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\refint\WebApplicationTEST.Utility.dll
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.pdb
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.genruntimeconfig.cache
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\ref\WebApplicationTEST.Utility.dll
