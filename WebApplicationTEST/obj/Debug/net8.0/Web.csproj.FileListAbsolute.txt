@@ -521,3 +521,4 @@ D:\Phuc\1670-Dev-Apps\WebApplication-Shop\WebApplicationTEST\obj\Debug\net8.0\re
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\WebApplicationTEST\obj\Debug\net8.0\Web.pdb
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\WebApplicationTEST\obj\Debug\net8.0\Web.genruntimeconfig.cache
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\WebApplicationTEST\obj\Debug\net8.0\ref\Web.dll
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\WebApplicationTEST\obj\Debug\net8.0\Web.sourcelink.json

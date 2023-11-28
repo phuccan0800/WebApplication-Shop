@@ -33,3 +33,4 @@ D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Tttp.DataAccess\obj\Debug\net8.0\refin
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.pdb
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.genruntimeconfig.cache
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Tttp.DataAccess\obj\Debug\net8.0\ref\WebApplicationTEST.DataAccess.dll
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.sourcelink.json

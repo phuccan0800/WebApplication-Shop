@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Utility\\WebApplicationTEST.Utility.csproj": {}
+    "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Utility\\WebApplicationTEST.Utility.csproj": {}
   },
   "projects": {
-    "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Utility\\WebApplicationTEST.Utility.csproj": {
+    "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Utility\\WebApplicationTEST.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Utility\\WebApplicationTEST.Utility.csproj",
+        "projectUniqueName": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Utility\\WebApplicationTEST.Utility.csproj",
         "projectName": "WebApplicationTEST.Utility",
-        "projectPath": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Utility\\WebApplicationTEST.Utility.csproj",
+        "projectPath": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Utility\\WebApplicationTEST.Utility.csproj",
         "packagesPath": "C:\\Users\\phucc\\.nuget\\packages\\",
-        "outputPath": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Utility\\obj\\",
+        "outputPath": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
