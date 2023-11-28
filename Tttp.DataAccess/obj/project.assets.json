@@ -9576,11 +9576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Tttp.DataAccess\\WebApplicationTEST.DataAccess.csproj",
+      "projectUniqueName": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Tttp.DataAccess\\WebApplicationTEST.DataAccess.csproj",
       "projectName": "WebApplicationTEST.DataAccess",
-      "projectPath": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Tttp.DataAccess\\WebApplicationTEST.DataAccess.csproj",
+      "projectPath": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Tttp.DataAccess\\WebApplicationTEST.DataAccess.csproj",
       "packagesPath": "C:\\Users\\phucc\\.nuget\\packages\\",
-      "outputPath": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Tttp.DataAccess\\obj\\",
+      "outputPath": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Tttp.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9595,15 +9595,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\WebApplicationTEST.Models.csproj": {
-              "projectPath": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\WebApplicationTEST.Models.csproj"
+            "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Models\\WebApplicationTEST.Models.csproj": {
+              "projectPath": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Models\\WebApplicationTEST.Models.csproj"
             }
           }
         }

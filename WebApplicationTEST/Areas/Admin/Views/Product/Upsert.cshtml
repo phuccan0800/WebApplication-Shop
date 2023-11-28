@@ -7,7 +7,7 @@
             <h2 class="text-primary">@(Model.Product.Id!=0?"Update":"Create") Product</h2>
             <hr/>
         </div>
-        <div class="p-0" asp-validation-summary="All"></div>
+        <div class="p-0 text-danger" asp-validation-summary="All"></div>
         <div class="mb-3 row p-1">
             <label asp-for="Product.Name" class="p-0"></label>
             <input asp-for="Product.Name" class="form-control" />
@@ -36,9 +36,9 @@
             <span asp-validation-for="Product.Author" class="text-danger"></span>
         </div>
         <div class="mb-3 row p-1">
-            <label class="p-0" asp-for="Product.ImgUrl"></label>
+            <label class="p-0" asp-for="Product.ImgUrl">Image</label>
             <img class="col-2" src="@Model.Product.ImgUrl" width="100%" style="border-radius:5px; border:1px solid #bbb9b9" />
-            <input type="file" name="file" asp-for="Product.ImgUrl" class="form-control" />
+            <input type="file" name="file" class="form-control" />
 
         </div>
         <div class="row">

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc;
 using WebApplicationTEST.DataAccess.Repository.InterfaceRepository;
 using WebApplicationTEST.DataAccess.Temp_Database;
 using WebApplicationTEST.Models;
@@ -10,6 +11,7 @@ namespace Web.Areas.Admin.Controllers
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IWebHostEnvironment _webHostEnvironment;
         public CategoryController(IUnitOfWork db)
         {
             _unitOfWork = db;
@@ -70,7 +72,7 @@ namespace Web.Areas.Admin.Controllers
             return View();
         }
 
-        public IActionResult Delete(int? id)
+/*        public IActionResult Delete(int? id)
         {
             if (id == null || id == 0)
             {
@@ -96,5 +98,28 @@ namespace Web.Areas.Admin.Controllers
             TempData["success"] = "Category deleted successfully";
             return RedirectToAction("Index");
         }
+*/
+        #region API CALLS
+        [HttpGet]
+        public IActionResult GetAll(int id)
+        {
+            List<CategoryModel> objProductList = _unitOfWork.Category.GetAll().ToList();
+            return Json(new { data = objProductList });
+        }
+
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            var categoryDelete = _unitOfWork.Category.Get(u => u.Id == id);
+            if (categoryDelete == null)
+            {
+                return Json(new { success = false, message = "Error while deleting" });
+            }
+
+            _unitOfWork.Category.Remove(categoryDelete); _unitOfWork.Save();
+            return Json(new { success = true, message = "Delete Successful" });
+        }
+        #endregion    
     }
+
 }

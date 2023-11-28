@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using NuGet.Protocol;
 using WebApplicationTEST.DataAccess.Repository.InterfaceRepository;
 using WebApplicationTEST.DataAccess.Temp_Database;
 using WebApplicationTEST.Models;
@@ -75,7 +76,12 @@ namespace Web.Areas.Admin.Controllers
                     }
                     obj.Product.ImgUrl = @"\img\products\" + fileName;
                 }
-
+                else
+                {
+                    ProductVM productVM = new();
+                    productVM.Product = _unitOfWork.Product.Get(u => u.Id == obj.Product.Id);
+                    obj.Product.ImgUrl = productVM.Product.ImgUrl;
+                }
                 if (obj.Product.Id ==0)
                 {
                     _unitOfWork.Product.Add(obj.Product);

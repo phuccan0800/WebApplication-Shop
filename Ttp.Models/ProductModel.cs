@@ -23,11 +23,11 @@ namespace WebApplicationTEST.Models
         [Required]
         [DisplayName("List Price")]
         public double Price { get; set; }
-
         public int CategoryId { get; set; }
         [ForeignKey("CategoryId")]
         [ValidateNever]
         public CategoryModel Category { get; set; }
+
         [ValidateNever]
         public string ImgUrl { get; set; }
 
