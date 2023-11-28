@@ -21,15 +21,15 @@ namespace WebApplicationTEST.Models
         public string Author { get; set; }
 
         [Required]
-        [DisplayName("List Price")]
+        [DisplayName("Price $")]
         public double Price { get; set; }
-        public int CategoryId { get; set; }
+        public int? CategoryId { get; set; }
         [ForeignKey("CategoryId")]
         [ValidateNever]
-        public CategoryModel Category { get; set; }
+        public CategoryModel? Category { get; set; }
 
         [ValidateNever]
-        public string ImgUrl { get; set; }
+        public string? ImgUrl { get; set; }
 
     }
 }

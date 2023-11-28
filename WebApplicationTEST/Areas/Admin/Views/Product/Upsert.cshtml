@@ -15,8 +15,8 @@
         </div>
         <div class="mb-3 row p-1">
             <label asp-for="Product.CategoryId" class="p-0"> Category</label>
-            <select asp-for="@Model.Product.CategoryId" asp-items="@Model.CategoryList" class="form-select">
-                <option disabled selected>--Select Category--</option>
+            <select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+
             </select>
             <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
         </div>
@@ -25,9 +25,9 @@
             <textarea asp-for="Product.Description" class="form-control"></textarea>
             <span asp-validation-for="Product.Description" class="text-danger"></span>
         </div>
-        <div class="mb-3 row p-1">
-            <label class="p-0" asp-for="Product.Price"></label>
-            <input asp-for="Product.Price" class="form-control" />
+        <div class="mb-3 row p-1"> 
+            <label id="priceLabel" class="p-0" asp-for="Product.Price"></label>
+            <input id="priceRange" asp-for="Product.Price" class="form-range" type="range" min="0" max="1000" step="0.01" />
             <span asp-validation-for="Product.Price" class="text-danger"></span>
         </div>
         <div class="mb-3 row p-1">
@@ -50,6 +50,16 @@
     </div>
 </form>
 @section Scripts{
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const priceRange = document.getElementById('priceRange');
+            const priceLabel = document.getElementById('priceLabel');
+            priceRange.addEventListener('input', function () {
+                priceLabel.textContent = `Price: ${parseFloat(priceRange.value).toFixed(2)} $`;
+            });
+            priceLabel.textContent = `Price: ${parseFloat(priceRange.value).toFixed(2)} $`;
+        });
+    </script>
     <script>
         tinymce.init({
             selector: 'textarea',

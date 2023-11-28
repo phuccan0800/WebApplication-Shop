@@ -35,7 +35,7 @@ namespace Web.Areas.Admin.Controllers
                     Text = u.Name,
                     Value = u.Id.ToString()
                 }),
-            Product = new ProductModel()
+                Product = new ProductModel()
             };
             if (id==null || id ==0)
             {
