@@ -1,9 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebApplicationTEST.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace WebApplicationTEST.DataAccess.Temp_Database
 {
-    public class Database : DbContext
+    public class Database : IdentityDbContext<IdentityUser>
     {
         public Database(DbContextOptions<Database> options) : base(options) 
         {
@@ -12,15 +14,13 @@ namespace WebApplicationTEST.DataAccess.Temp_Database
 
         public DbSet<CategoryModel> Categories { get; set; }
         public DbSet<ProductModel> Products { get; set; }
-
+        public DbSet<Users> Users {  get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<CategoryModel>().HasData(
-                new CategoryModel { Id= 1, Name="Anime", DisplayOrder=1 },
-                new CategoryModel { Id = 2, Name="Hentai", DisplayOrder=2 },
-                new CategoryModel { Id = 3, Name="Sex", DisplayOrder=3}
-                );
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<CategoryModel>();
             modelBuilder.Entity<ProductModel>();
+            modelBuilder.Entity<Users>();
         }
 
 

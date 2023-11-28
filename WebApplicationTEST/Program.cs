@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using WebApplicationTEST.DataAccess.Repository;
 using WebApplicationTEST.DataAccess.Repository.InterfaceRepository;
 using WebApplicationTEST.DataAccess.Temp_Database;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<Database>(options => 
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefualtConnection")));
+
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<Database>();
+
+builder.Services.AddRazorPages();
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
@@ -24,9 +29,9 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
+app.MapRazorPages();
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

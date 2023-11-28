@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using WebApplicationTEST.DataAccess.Repository.InterfaceRepository;
 using WebApplicationTEST.Models;
 
 namespace Web.Areas.Customer.Controllers
@@ -8,17 +9,24 @@ namespace Web.Areas.Customer.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IUnitOfWork _unitOfWork;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IUnitOfWork unitOfWork)
         {
             _logger = logger;
+            _unitOfWork = unitOfWork;
         }
 
         public IActionResult Index()
         {
-            return View();
+            IEnumerable<ProductModel> products = _unitOfWork.Product.GetAll("Category");
+            return View(products);
         }
-
+        public IActionResult Details(int id)
+        {
+            ProductModel product = _unitOfWork.Product.Get(u=>u.Id==id, includeProperties:"Category");
+            return View(product);
+        }
         public IActionResult Privacy()
         {
             return View();
