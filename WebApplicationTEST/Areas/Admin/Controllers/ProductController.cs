@@ -58,7 +58,7 @@ namespace Web.Areas.Admin.Controllers
                 if (file != null)
                 {
                     string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
-                    string productPath = Path.Combine(wwwRootPath, @"img\products");
+                    string productPath = Path.Combine(wwwRootPath, @"img/products");
                     
                     if (!string.IsNullOrEmpty(obj.Product.ImgUrl))
                     {
@@ -74,7 +74,7 @@ namespace Web.Areas.Admin.Controllers
                     {
                         file.CopyTo(fileStream);
                     }
-                    obj.Product.ImgUrl = @"\img\products\" + fileName;
+                    obj.Product.ImgUrl = @"/img/products/" + fileName;
                 }
                 else
                 {
