@@ -251,7 +251,7 @@ namespace WebApplicationTEST.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories");
+                    b.ToTable("Categories", (string)null);
                 });
 
             modelBuilder.Entity("WebApplicationTEST.Models.ProductModel", b =>
@@ -287,7 +287,7 @@ namespace WebApplicationTEST.DataAccess.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Products");
+                    b.ToTable("Products", (string)null);
                 });
 
             modelBuilder.Entity("WebApplicationTEST.Models.Users", b =>
