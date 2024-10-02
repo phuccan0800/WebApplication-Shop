@@ -27,3 +27,4 @@ D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Ttp.Utility\obj\Debug\net8.0\refint\We
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.pdb
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.genruntimeconfig.cache
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Ttp.Utility\obj\Debug\net8.0\ref\WebApplicationTEST.Utility.dll
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Ttp.Utility\obj\Debug\net8.0\WebApplicationTEST.Utility.sourcelink.json

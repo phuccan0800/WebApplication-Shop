@@ -21,4 +21,8 @@
     <ProjectReference Include="..\Ttp.Models\WebApplicationTEST.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

@@ -9671,11 +9671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Models\\WebApplicationTEST.Models.csproj",
+      "projectUniqueName": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\WebApplicationTEST.Models.csproj",
       "projectName": "WebApplicationTEST.Models",
-      "projectPath": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Models\\WebApplicationTEST.Models.csproj",
+      "projectPath": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\WebApplicationTEST.Models.csproj",
       "packagesPath": "C:\\Users\\phucc\\.nuget\\packages\\",
-      "outputPath": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Models\\obj\\",
+      "outputPath": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9690,6 +9690,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9702,6 +9703,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -9747,7 +9753,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

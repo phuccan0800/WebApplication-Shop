@@ -1,327 +1,327 @@
 {
   "Files": [
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\Web.bundle.scp.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\css\\site.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\favicon.ico",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\04404155-ce14-471e-a884-7b47160cf6fb.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\04404155-ce14-471e-a884-7b47160cf6fb.jpg",
       "PackagePath": "staticwebassets\\img\\products\\04404155-ce14-471e-a884-7b47160cf6fb.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\27c068d8-792c-44d1-b7f5-2320a6f52051.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\27c068d8-792c-44d1-b7f5-2320a6f52051.jpg",
       "PackagePath": "staticwebassets\\img\\products\\27c068d8-792c-44d1-b7f5-2320a6f52051.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\2a258690-75bd-4ef3-a33f-d5f709759615.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\2a258690-75bd-4ef3-a33f-d5f709759615.jpg",
       "PackagePath": "staticwebassets\\img\\products\\2a258690-75bd-4ef3-a33f-d5f709759615.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\425829bd-f11e-4306-84b5-d9ef0d9d637e.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\425829bd-f11e-4306-84b5-d9ef0d9d637e.jpg",
       "PackagePath": "staticwebassets\\img\\products\\425829bd-f11e-4306-84b5-d9ef0d9d637e.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\51415729-3b7f-487b-abb4-5e8f6598d045.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\51415729-3b7f-487b-abb4-5e8f6598d045.jpg",
       "PackagePath": "staticwebassets\\img\\products\\51415729-3b7f-487b-abb4-5e8f6598d045.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\5477c08b-881a-4bb4-bfbb-7562cf93f76d.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\5477c08b-881a-4bb4-bfbb-7562cf93f76d.jpg",
       "PackagePath": "staticwebassets\\img\\products\\5477c08b-881a-4bb4-bfbb-7562cf93f76d.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\7a798571-9d02-434f-a5b6-7b79f98eed11.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\7a798571-9d02-434f-a5b6-7b79f98eed11.jpg",
       "PackagePath": "staticwebassets\\img\\products\\7a798571-9d02-434f-a5b6-7b79f98eed11.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\91bab375-42a8-4844-97ec-5ba0b3b0bffd.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\91bab375-42a8-4844-97ec-5ba0b3b0bffd.jpg",
       "PackagePath": "staticwebassets\\img\\products\\91bab375-42a8-4844-97ec-5ba0b3b0bffd.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\ac361e5d-1812-4526-ac58-97fd16d61e38.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\ac361e5d-1812-4526-ac58-97fd16d61e38.jpg",
       "PackagePath": "staticwebassets\\img\\products\\ac361e5d-1812-4526-ac58-97fd16d61e38.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\b18d3e4d-6894-4653-910a-b12dfa116fff.jfif",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\b18d3e4d-6894-4653-910a-b12dfa116fff.jfif",
       "PackagePath": "staticwebassets\\img\\products\\b18d3e4d-6894-4653-910a-b12dfa116fff.jfif"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\b7e9cecd-8ee3-4557-95ac-1eb1e3a2cd20.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\b7e9cecd-8ee3-4557-95ac-1eb1e3a2cd20.jpg",
       "PackagePath": "staticwebassets\\img\\products\\b7e9cecd-8ee3-4557-95ac-1eb1e3a2cd20.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\b8187eb1-286e-49d8-a3f1-bf9f722d84cb.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\b8187eb1-286e-49d8-a3f1-bf9f722d84cb.jpg",
       "PackagePath": "staticwebassets\\img\\products\\b8187eb1-286e-49d8-a3f1-bf9f722d84cb.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\c0534a31-0072-49d7-9090-178a969043e8.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\c0534a31-0072-49d7-9090-178a969043e8.jpg",
       "PackagePath": "staticwebassets\\img\\products\\c0534a31-0072-49d7-9090-178a969043e8.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\db1c7e28-8c20-4d2b-899e-5a7befc0d19a.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\db1c7e28-8c20-4d2b-899e-5a7befc0d19a.jpg",
       "PackagePath": "staticwebassets\\img\\products\\db1c7e28-8c20-4d2b-899e-5a7befc0d19a.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\dc3899b9-e0b7-4a22-9fa7-67f374598f28.png",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\dc3899b9-e0b7-4a22-9fa7-67f374598f28.png",
       "PackagePath": "staticwebassets\\img\\products\\dc3899b9-e0b7-4a22-9fa7-67f374598f28.png"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\e9bed981-beac-45a0-847b-5defc3bb0073.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\e9bed981-beac-45a0-847b-5defc3bb0073.jpg",
       "PackagePath": "staticwebassets\\img\\products\\e9bed981-beac-45a0-847b-5defc3bb0073.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\ea0c17e6-cd85-4ac1-932b-a86d00a4d747.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\ea0c17e6-cd85-4ac1-932b-a86d00a4d747.jpg",
       "PackagePath": "staticwebassets\\img\\products\\ea0c17e6-cd85-4ac1-932b-a86d00a4d747.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\img\\products\\f8ef7ab3-2d7b-48f4-a0de-dbac65a7aa35.jpg",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\img\\products\\f8ef7ab3-2d7b-48f4-a0de-dbac65a7aa35.jpg",
       "PackagePath": "staticwebassets\\img\\products\\f8ef7ab3-2d7b-48f4-a0de-dbac65a7aa35.jpg"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\js\\products.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\js\\products.js",
       "PackagePath": "staticwebassets\\js\\products.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\js\\site.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\WebApplicationTEST\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

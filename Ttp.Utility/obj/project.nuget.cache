@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gr6AF1NfAuH97Pe8i/7wvZs8heDD7h/cAhrSjeSABbmgsaXbDeL7arBcZvkAXBRWNRvO3c5vkPr15VwCaa3evA==",
+  "dgSpecHash": "2/ZaCu7l3wpo2pDx9SErG4Vjjk9wFe/M3fS43Ydul3D22Bvk4lm4YgmVmIzeScIWdjt23aIFC3H8y737R5UTOA==",
   "success": true,
-  "projectFilePath": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Ttp.Utility\\WebApplicationTEST.Utility.csproj",
+  "projectFilePath": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Utility\\WebApplicationTEST.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phucc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\phucc\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

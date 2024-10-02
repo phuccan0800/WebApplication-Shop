@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zB/52tQ2Bj1x8A8+i0rFDMfJzemF42VrlWwq/3pAQ/sRgyNbGExX0Wlu9DtAtpEhVr4W0L/CvhRGvq4tt3nzog==",
+  "dgSpecHash": "G+u9q+1ZJqGJw6kyfmlipsyO3Mjo7wFfKfKD0APo2xhhJJjBGZPRC097khT+zUBxEEpMBNZym1cX9vrUxpIv/Q==",
   "success": true,
-  "projectFilePath": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Tttp.DataAccess\\WebApplicationTEST.DataAccess.csproj",
+  "projectFilePath": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Tttp.DataAccess\\WebApplicationTEST.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phucc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\phucc\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

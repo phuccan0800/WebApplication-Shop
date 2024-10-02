@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|e:\\phuc\\app_dev\\webapplication_test\\webapplicationtest\\webapplicationtest\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861E22B9-4EFD-4296-A461-C75BF6EB0000}|Ttp.Models\\WebApplicationTEST.Models.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\ttp.models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861E22B9-4EFD-4296-A461-C75BF6EB0000}|Ttp.Models\\WebApplicationTEST.Models.csproj|solutionrelative:ttp.models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Tttp.DataAccess\\Migrations\\20241002034203_New.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tttp.DataAccess\\Migrations\\20241002034203_New.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|e:\\phuc\\app_dev\\webapplication_test\\webapplicationtest\\webapplicationtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF0CFB7-9EEE-4D61-A03F-ED6CC37D1451}|Tttp.DataAccess\\WebApplicationTEST.DataAccess.csproj|e:\\phuc\\app_dev\\webapplication_test\\webapplicationtest\\tttp.dataaccess\\temp_database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF0CFB7-9EEE-4D61-A03F-ED6CC37D1451}|Tttp.DataAccess\\WebApplicationTEST.DataAccess.csproj|solutionrelative:tttp.dataaccess\\temp_database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Tttp.DataAccess\\Migrations\\20231202040336_addUserDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861E22B9-4EFD-4296-A461-C75BF6EB0000}|Ttp.Models\\WebApplicationTEST.Models.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\ttp.models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861E22B9-4EFD-4296-A461-C75BF6EB0000}|Ttp.Models\\WebApplicationTEST.Models.csproj|solutionrelative:ttp.models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861E22B9-4EFD-4296-A461-C75BF6EB0000}|Ttp.Models\\WebApplicationTEST.Models.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\ttp.models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861E22B9-4EFD-4296-A461-C75BF6EB0000}|Ttp.Models\\WebApplicationTEST.Models.csproj|solutionrelative:ttp.models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\webapplicationtest\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B62CF-F655-4FAB-96F2-D5BE4C0920CE}|WebApplicationTEST\\Web.csproj|solutionrelative:webapplicationtest\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationTEST\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:44:35.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241002034203_New.cs",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Tttp.DataAccess\\Migrations\\20241002034203_New.cs",
+              "RelativeDocumentMoniker": "Tttp.DataAccess\\Migrations\\20241002034203_New.cs",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Tttp.DataAccess\\Migrations\\20241002034203_New.cs",
+              "RelativeToolTip": "Tttp.DataAccess\\Migrations\\20241002034203_New.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:42:03.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\appsettings.json",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\appsettings.json",
+              "RelativeToolTip": "WebApplicationTEST\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T03:29:30.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20231202040336_addUserDb.cs",
+              "DocumentMoniker": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Tttp.DataAccess\\Migrations\\20231202040336_addUserDb.cs",
+              "ToolTip": "D:\\Phuc\\1670-Dev-Apps\\WebApplication-Shop\\Tttp.DataAccess\\Migrations\\20231202040336_addUserDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T04:03:36.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:28:30.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "Ttp.Models\\CategoryModel.cs",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\CategoryModel.cs",
+              "RelativeToolTip": "Ttp.Models\\CategoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:28:30.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Ttp.Models\\ProductModel.cs",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\ProductModel.cs",
+              "RelativeToolTip": "Ttp.Models\\ProductModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:28:30.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "WebApplicationTEST\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:28:30.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Program.cs",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Program.cs",
+              "RelativeToolTip": "WebApplicationTEST\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:28:30.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:28:30.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationTEST\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:28:30.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Tttp.DataAccess\\Temp_Database\\Database.cs",
+              "RelativeDocumentMoniker": "Tttp.DataAccess\\Temp_Database\\Database.cs",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Tttp.DataAccess\\Temp_Database\\Database.cs",
+              "RelativeToolTip": "Tttp.DataAccess\\Temp_Database\\Database.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:28:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplicationTEST\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:28:30.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\Users.cs",
+              "RelativeDocumentMoniker": "Ttp.Models\\Users.cs",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\Ttp.Models\\Users.cs",
+              "RelativeToolTip": "Ttp.Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:28:30.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplicationTEST\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:28:30.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplicationTEST\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:28:30.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationTEST\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:28:30.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApplicationTEST\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:28:30.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\PHUC\\APP_DEV\\WebApplication_TEST\\WebApplicationTEST\\WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApplicationTEST\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:28:30.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

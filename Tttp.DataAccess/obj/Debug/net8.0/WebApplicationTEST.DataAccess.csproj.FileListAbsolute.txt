@@ -9,7 +9,6 @@ E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\bin\Debug
 E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\bin\Debug\net8.0\WebApplicationTEST.DataAccess.pdb
 E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\bin\Debug\net8.0\WebApplicationTEST.Models.dll
 E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\bin\Debug\net8.0\WebApplicationTEST.Models.pdb
-E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.csproj.CopyComplete
 E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.dll
 E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\refint\WebApplicationTEST.DataAccess.dll
 E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.pdb
@@ -34,3 +33,4 @@ D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Tttp.DataAccess\obj\Debug\net8.0\WebAp
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.genruntimeconfig.cache
 D:\Phuc\1670-Dev-Apps\WebApplication-Shop\Tttp.DataAccess\obj\Debug\net8.0\ref\WebApplicationTEST.DataAccess.dll
 E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebApplicationTEST.DataAccess.sourcelink.json
+E:\PHUC\APP_DEV\WebApplication_TEST\WebApplicationTEST\Tttp.DataAccess\obj\Debug\net8.0\WebAppli.97B71736.Up2Date

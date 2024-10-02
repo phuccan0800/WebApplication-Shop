@@ -251,7 +251,7 @@ namespace WebApplicationTEST.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories", (string)null);
+                    b.ToTable("Categories");
                 });
 
             modelBuilder.Entity("WebApplicationTEST.Models.ProductModel", b =>
@@ -287,7 +287,7 @@ namespace WebApplicationTEST.DataAccess.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Products", (string)null);
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("WebApplicationTEST.Models.Users", b =>
@@ -298,7 +298,6 @@ namespace WebApplicationTEST.DataAccess.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PostalCode")
